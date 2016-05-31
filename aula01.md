@@ -1,6 +1,8 @@
 # Introdução à linguagem JavaScript
 _Disciplina: Fundamentos de Lógica e Programação de Computadores_
+
 _Prof. Me. Evandro Luís Souza Falleiros_
+_Profa. Me. Nátalli Macedo Rodrigues Falleiros_
 
 ## O que é JavaScript
 
