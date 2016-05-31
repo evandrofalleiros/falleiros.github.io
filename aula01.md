@@ -288,6 +288,10 @@ Combinamos, na primeira aula, que iremos criar nossos códigos em arquivos HTML 
 
 Para executar seu arquivo, você deve encontrá-lo no seu computador e acessá-lo (com dois cliques sobre o arquivo) em um navegador web. Dê preferência ao navegador Google Chrome, pois este é o navegador usado pelo professor. Se você salvar o seu arquivo com uma extensão diferente de .html, é provável que seu código não execute.
 
+## Códigos de exemplo
+
+[Exemplos](https://github.com/falleiros/falleiros.github.io/tree/master/exemplos)
+
 ## Exercícios
 
 1. Faça um algoritmo que recebe como entrada de dados dois valores numéricos e exibe o resultado da soma destes dois valores.
