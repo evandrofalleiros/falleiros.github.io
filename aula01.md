@@ -6,7 +6,7 @@ _Profa. Me. Nátalli Macedo Rodrigues Falleiros_
 
 ## O que é JavaScript
 
-JavaScript é a linguagem de programação web mais conhecida (e imcompreendida) do mundo. Foi criada em 1995 por Brendan Eich, um engenheiro da Netscape, e lançada pela primeira vez com o Netscape 2 no início de 1996.
+JavaScript é a linguagem de programação web mais conhecida (e incompreendida) do mundo. Foi criada em 1995 por Brendan Eich, um engenheiro da Netscape, e lançada pela primeira vez com o Netscape 2 no início de 1996.
 
 Foi inicialmente chamada de LiveScript, mas logo foi rebatizada, em uma decisão de marketing malfeita, para tentar crescer sobre a popularidade da linguagem Java da Sun Microsystem - apesar das duas terem muito pouco em comum. Esta tem sido uma fonte de confusão desde então.
 
