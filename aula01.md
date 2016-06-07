@@ -305,7 +305,17 @@ Para executar seu arquivo, você deve encontrá-lo no seu computador e acessá-l
 7. João Bacurí costuma pescar no pesqueiro Rio Aberto. Considere que o pesqueiro estabeleceu que, independente do tipo de peixe, cobra-se R$ 9.90 (nove reais e noventa centavos) por quilo de pescado. Faça um algoritmo que, dado o peso (em quilogramas) de pescado, é capaz de mostrar o valor final a ser cobrado com desconto. As seguintes regras de desconto são utilizadas no ato de cobrança:
 	- O pescado que pesar até 2.9Kg não tem desconto no valor final; 
 	- O pescado que pesar 3Kg ou mais, ganha 5% de desconto no valor final. 
-8. Faça um algoritmo que recebe como entrada de dados a idade de uma pessoa expressa em anos, meses e dias e retorna como saída de dados a idade expressa apenas em dias. Assuma que todos os meses do ano tem 30 dias.	
+8. Faça um algoritmo que recebe como entrada de dados a idade de uma pessoa expressa em anos, meses e dias e retorna como saída de dados a idade expressa apenas em dias. Assuma que todos os meses do ano tem 30 dias.
+
+9. Faça um algoritmo que leia o tempo de duração de um evento expresso em minutos e retorne, como saída de dados, o tempo de duração expresso em horas e minutos, no formato hh:mm (ex: 80min é equivalente à 01h:20m).
+
+Dica: A matemática é sua amiga! Use-a, sem moderação. https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math
+
+10.  Faça um algoritmo que leia uma temperatura em graus Celsius e apresente-a
+convertida em graus Fahrenheit. A fórmula de conversão é: F = (9 * C + 160) / 5,
+na qual F é a temperatura em Fahrenheit e C é a temperatura em Celsius; 
+11. Faça um algoritmo que leia a velocidade de um veículo em km/h e calcule e
+imprima a velocidade em m/s (metros por segundo). 	
 
 
 
