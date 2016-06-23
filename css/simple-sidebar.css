@@ -58,7 +58,7 @@ iframe{
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #000;
+    background: #42363F;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -99,7 +99,7 @@ iframe{
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: #999999;
+    color: rgba(255,255,255,0.9);
 }
 
 .sidebar-nav li a:hover {
@@ -120,7 +120,7 @@ iframe{
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: #999999;
+    color: rgba(255,255,255,0.9);
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
