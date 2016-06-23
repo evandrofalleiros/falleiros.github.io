@@ -32,6 +32,9 @@ article.markdown-body{
     margin-top: 10rem;
 }
 
+iframe{
+    display: none;
+}
 
 /* Toggle Styles */
 
