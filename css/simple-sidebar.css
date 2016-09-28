@@ -58,7 +58,7 @@ iframe{
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #42363F;
+    background: #FFEB79;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -99,13 +99,13 @@ iframe{
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
-    color: rgba(255,255,255,0.9);
+    color: rgba(0,0,0,0.9);
 }
 
 .sidebar-nav li a:hover {
     text-decoration: none;
     color: #fff;
-    background: rgba(255,255,255,0.2);
+    background: rgba(0,0,0,0.2);
 }
 
 .sidebar-nav li a:active,
@@ -120,11 +120,13 @@ iframe{
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color: rgba(255,255,255,0.9);
+  border-bottom: solid 1px rgba(0,0,0,0.2);
+    color: #333;
+    font-weight: bold;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
-    color: #fff;
+    color: #000;
     background: none;
 }
 
@@ -139,6 +141,22 @@ iframe{
 
     #sidebar-wrapper {
         width: 250px;
+    }
+
+    #sidebar-wrapper::after {
+      display: block;
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0px;
+      width: 5px;
+      height: 100%;
+
+      background: red; /* For browsers that do not support gradients */
+      background: -webkit-linear-gradient(left, #ddd, white); /* For Safari 5.1 to 6.0 */
+      background: -o-linear-gradient(right, #ddd, white); /* For Opera 11.1 to 12.0 */
+      background: -moz-linear-gradient(right, #ddd, white); /* For Firefox 3.6 to 15 */
+      background: linear-gradient(to right, #ddd, white); /* Standard syntax */
     }
 
     #wrapper.toggled #sidebar-wrapper {
